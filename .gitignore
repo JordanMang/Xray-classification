@@ -160,3 +160,10 @@ ipython_config.py
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Photo data
+*.jpeg
+
+# Logs folder
+logs/*
+*.v2
